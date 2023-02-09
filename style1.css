@@ -22,16 +22,25 @@
 
 	#charlie-pic-1 {
 	     height: 250px;
+	     float: right
+	     margin-left: 8pc;
+	     margin-bottom: 3px;
 	}
 
 	#charlie-pic-2 {
 	     width: 300px;
-	     
+	     float: left
+	     margin-right: 8px;
+	     margin-bottom: 3px;
 	}
 
 	#desserts {
 	     width: 300px;
+	     float: right;
+	     margin-left: 8px;
+	     margin-bottom: 3px;
 	}
+	      
 	
 
             
