@@ -1,3 +1,4 @@
+       
         h1 {
             color: rgb(214, 2, 112);
         }  
@@ -16,32 +17,20 @@
 	#skyline {
 	     width: 330px;
 	     float: left;
-	     margin-right: 3px;
+	     margin-right: 8px;
 	     margin-bottom: 3px;
 	}
 
 	#charlie-pic-1 {
 	     height: 250px;
 	     float: right;
-	     margin-left: 3px;
+	     margin-left: 8pc;
 	     margin-bottom: 3px;
 	}
 
 	#charlie-pic-2 {
 	     width: 300px;
-	     float: left;
-	     margin-right: 3px;
-	     margin-bottom: 3px;
 	}
 
 	#desserts {
 	     width: 300px;
-	     float: right;
-	     margin-left: 3px;
-	     margin-bottom: 3px;
-	}
-	      
-	
-
-            
-	
